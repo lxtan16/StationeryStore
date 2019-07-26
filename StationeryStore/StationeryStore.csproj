@@ -132,8 +132,6 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Delegation.cs" />
-    <Compile Include="Models\Disbursement.cs" />
-    <Compile Include="Models\DisbursementDetails.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
