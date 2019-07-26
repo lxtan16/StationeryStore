@@ -132,10 +132,10 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Delegation.cs" />
-    <Compile Include="Models\Supplier.cs" />
-    <Compile Include="Models\SupplierItem.cs" />
-    <Compile Include="Models\TemporaryRequisition.cs" />
-    <Compile Include="Models\test.cs" />
+    <Compile Include="Models\Adjustment.cs" />
+    <Compile Include="Models\PurchaseOrder.cs" />
+    <Compile Include="Models\PurchaseOrderDetails.cs" />
+    <Compile Include="Models\StoreStaff.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
