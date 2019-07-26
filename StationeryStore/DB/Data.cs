@@ -8,6 +8,6 @@ namespace StationeryStore.DB
     public class Data
     {
         public static string strCN = "Server=Localhost;" +
-         "Database=LAPS; Integrated Security=true";
+         "Database=StationeryStore; Integrated Security=true";
     }
 }
