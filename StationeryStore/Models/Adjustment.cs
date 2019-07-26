@@ -44,7 +44,7 @@ namespace StationeryStore.Models
             get { return status; }
             set { status = value; }
         }
-        public float TotalValue {
+        public double TotalValue {
             get { return totalValue; }
             set { totalValue = value; }
         }
